@@ -1,0 +1,15 @@
+/Users/samisusami/Desktop/DZ/DZ_001/obj/Debug/net6.0/DZ_001.csproj.AssemblyReference.cache
+/Users/samisusami/Desktop/DZ/DZ_001/obj/Debug/net6.0/DZ_001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samisusami/Desktop/DZ/DZ_001/obj/Debug/net6.0/DZ_001.AssemblyInfoInputs.cache
+/Users/samisusami/Desktop/DZ/DZ_001/obj/Debug/net6.0/DZ_001.AssemblyInfo.cs
+/Users/samisusami/Desktop/DZ/DZ_001/obj/Debug/net6.0/DZ_001.csproj.CoreCompileInputs.cache
+/Users/samisusami/Desktop/DZ/DZ_001/bin/Debug/net6.0/DZ_001
+/Users/samisusami/Desktop/DZ/DZ_001/bin/Debug/net6.0/DZ_001.deps.json
+/Users/samisusami/Desktop/DZ/DZ_001/bin/Debug/net6.0/DZ_001.runtimeconfig.json
+/Users/samisusami/Desktop/DZ/DZ_001/bin/Debug/net6.0/DZ_001.dll
+/Users/samisusami/Desktop/DZ/DZ_001/bin/Debug/net6.0/DZ_001.pdb
+/Users/samisusami/Desktop/DZ/DZ_001/obj/Debug/net6.0/DZ_001.dll
+/Users/samisusami/Desktop/DZ/DZ_001/obj/Debug/net6.0/refint/DZ_001.dll
+/Users/samisusami/Desktop/DZ/DZ_001/obj/Debug/net6.0/DZ_001.pdb
+/Users/samisusami/Desktop/DZ/DZ_001/obj/Debug/net6.0/DZ_001.genruntimeconfig.cache
+/Users/samisusami/Desktop/DZ/DZ_001/obj/Debug/net6.0/ref/DZ_001.dll
